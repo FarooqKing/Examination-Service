@@ -1,0 +1,17 @@
+.container-fluid-cards {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  height: 33rem;
+
+  padding: 6rem 0;
+}
+.content-cards {
+  height: 43rem !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.wrapper1 {
+  height: 43rem;
+}

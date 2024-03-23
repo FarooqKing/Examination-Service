@@ -1,0 +1,14 @@
+button {
+  background-color: black;
+}
+
+/* Add this CSS to your stylesheet */
+.wrapper {
+  background-color: #fff;
+  transition: all 0.3s ease;
+}
+
+/* Corrected CSS */
+.wrapper.toggled {
+  width: 50px !important; /* Adjust this width as needed */
+}
